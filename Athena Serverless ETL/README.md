@@ -1,7 +1,7 @@
 
-### Lambda Functions
+Replace parameters, role names and xxxxxxxxxxxxxx with relevant account numbers in all the files.
 
-Replace parameters, roles and xxxxxxxxxxxxxx with relevant account numbers in all the files.
+### Lambda Functions
 
 - add-partition.yaml - SAM file to deploy add-partition.py lambda function
 - execute-etl.yaml - SAM file to deploy execute-etl.py lambda function
